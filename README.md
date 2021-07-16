@@ -13,3 +13,5 @@ Ecoli_vfdb.tsv - as above but for Virulence finder database
 Kleb_source.tsv - Guuid/Source
 
 oxford_kleborate.tsv - Kleborate output file for Klebsiella isolates
+
+Feel free to contact me at samuel.lipworth@ndm.ox.ac.uk if you have any questions.
