@@ -4,6 +4,6 @@ Description of files:
 Ecoli_guuid_year_Spec.tsv - Guuid/Year of isolation/Specimen Category/Phylogroup/MLST
 Ecoli_source.tsv - Guuid/Source
 Ecoli_resfinder.tsv - presence absence matrix for genes in resfinder database
-Ecoli_vfdb.tsv - "" Virulence finder database
+Ecoli_vfdb.tsv - as above but for Virulence finder database
 Kleb_source.tsv - Guuid/Source
 oxford_kleborate.tsv - Kleborate output file for Klebsiella isolates
