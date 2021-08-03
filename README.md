@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/386596069.svg)](https://zenodo.org/badge/latestdoi/386596069)
+
+
 # Additional files for the paper "Molecular epidemiology of Escherichia coli and Klebsiella species bloodstream infections in Oxfordshire (UK) 2008-2018"
 
 Description of files:
