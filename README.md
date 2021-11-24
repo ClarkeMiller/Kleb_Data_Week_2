@@ -17,4 +17,6 @@ Kleb_source.tsv - Guuid/Source
 
 oxford_kleborate.tsv - Kleborate output file for Klebsiella isolates
 
+kleb_patient_agegroup.csv - denotes if patient <16 (0) or >=16 (1) for all Klebsiella spp. isolates.
+
 Feel free to contact me at samuel.lipworth@ndm.ox.ac.uk if you have any questions.
